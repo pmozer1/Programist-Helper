@@ -1,0 +1,1 @@
+[null,{"name":"ban","permissions":"KICK_MEMBERS","restriction":"1","actions":[{"channel":"0","varName":"","message":":flag_us:\n${member} has banned ${mentionedUser} for ${tempVars(\"reason\")}\n\n:flag_pl:\n${member} zbanował ${mentionedUser} za ${tempVars(\"reason)}","storage":"0","varName2":"","name":"Send Message"}]}]
